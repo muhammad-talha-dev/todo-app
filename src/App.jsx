@@ -1,6 +1,5 @@
 import React from 'react'
-import TodoList from './components/todoList'
-// import GptTodoList from './components/gptTodoList'
+import TodoList from './components/TodoList'
 
 function App() {
   return (
